@@ -3,8 +3,6 @@
 Hello! I'm Sarthak, a certified full-stack developer with a special love 💖 for frontend development. I thrive on creating seamless, interactive, and user-friendly interfaces.
 
 ## Tech Stack
-
-- **Languages & Frameworks:**
   - **Java** 🔱
   - **Springboot** 💚
   - **React** 💙
