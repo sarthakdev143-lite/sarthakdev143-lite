@@ -1,11 +1,12 @@
 # 🗿 Passionate Certified Full-Stack Developer
 
-Hello! I'm Sarthak, a 16 y/o certified full-stack developer with a special love 💖 for frontend development. I thrive on creating seamless, interactive, and user-friendly interfaces.
+Hello! I'm Sarthak, a 16 y/o certified full-stack developer. I thrive on creating responsive, interactive, and user-friendly interfaces.
 
 ## Tech Stack
   - **Java** 🔱
   - **Springboot** 💚
-  - **React** 💙
+  - **HTML, CSS, JS, React** 💙
+  - **MongoDB, Oracle** 🧡
 
 ## Open Source & Collaboration
 
