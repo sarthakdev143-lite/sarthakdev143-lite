@@ -1,21 +1,29 @@
-# 🗿 Passionate Certified Full-Stack Developer
+### Hey, I'm Sarthak 👋
 
-Hello! I'm Sarthak, a 17 y/o certified full-stack developer. I thrive on creating responsive, pixel-perfect & robust applications.
+Full-stack developer from Indore, India. Been building since before Class 10. Currently shipping production code as a **Frontend Developer at Ravwolf (Mooonit)** while finishing Class 12 boards & JEE/CUET.
 
-## Tech Stack
-  - **Java** 🔱
-  - **Springboot** 💚
-  - **React, Next.js** 💙
-  - **MongoDB, Oracle** 🧡
+I build fast, think in systems, and actively use LLMs to accelerate development scaffolding, boilerplate, architecture iteration while staying in control of what actually ships.
 
-## Open Source & Collaboration
+---
 
-💢 Eager to collaborate on open-source projects and exciting ventures. Whether it's building new features, fixing bugs, or brainstorming innovative ideas, I'm up for the challenge!
+### Stack
 
-## Let's Connect
+**Frontend** - Next.js · TypeScript · Tailwind CSS · Three.js · GSAP · Lenis  
+**Backend** - Spring Boot · Node.js
 
-👋 Interested in building 💪 something amazing together? Feel free to reach out!
+**Databases** - MongoDB · Oracle · Redis  
+**Tools** - Git · Docker · Cloudinary · NextAuth · tRPC · Prisma
 
-📧 **Email:** [sarthakdev143.official@gmail.com](mailto:sarthakdev143.official@gmail.com)
+---
 
-![](https://komarev.com/ghpvc/?username=sarthakdev143-lite&abbreviated=true)
+### Currently
+
+- 💼 Frontend Dev @ Ravwolf - built [mooonit.com](https://mooonit.com) from the first line
+- 🎖 Head Boy, Little Wonders Convent School (2025–26)
+- 🔭 Exploring: offensive security, LLM fine-tuning, systems design
+
+---
+
+## 📬 Reach me
+
+[Portfolio](https://sarthakdev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sarthak-parulekar) · sarthakdev143.official@gmail.com
