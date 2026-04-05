@@ -1,6 +1,6 @@
 ### Hey, I'm Sarthak 👋
 
-Full-stack developer from Indore, India. Been building since before Class 10. Currently shipping production code as a **Frontend Developer at Ravwolf (Mooonit)** while finishing Class 12 boards & JEE/CUET.
+Full-stack developer from Indore, India. Been building since before Class 10. 
 
 I build fast, think in systems, and actively use LLMs to accelerate development scaffolding, boilerplate, architecture iteration while staying in control of what actually ships.
 
