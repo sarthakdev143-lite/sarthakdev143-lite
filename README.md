@@ -18,7 +18,6 @@ I build fast, think in systems, and actively use LLMs to accelerate development 
 
 ### Currently
 
-- 💼 Frontend Dev @ Ravwolf - built [mooonit.com](https://mooonit.com) from the first line
 - 🎖 Head Boy, Little Wonders Convent School (2025–26)
 - 🔭 Exploring: offensive security, LLM fine-tuning, systems design
 
