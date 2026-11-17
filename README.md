@@ -9,8 +9,6 @@ I build fast, think in systems, and actively use LLMs to accelerate development 
 - Building production grade applications with Industry professionals 
 - Exploring: offensive security, AI & Automation, systems design
 
----
-
-## 📬 Reach me
+### 📬 Reach me
 
 [Portfolio](https://sarthakdev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sarthak-parulekar) · sarthakdev143.official@gmail.com
